@@ -1,0 +1,1 @@
+{"github":"nas","email":"email","title":"hello","description":"ty","license":"MIT","installation":"npm i","test":"","contributer":""}

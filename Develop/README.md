@@ -1,1 +1,27 @@
-{"github":"nas","email":"email","title":"hello","description":"ty","license":"MIT","installation":"npm i","test":"","contributer":""}
+<h1 align='center'>nas</h1>
+  ## Descprition
+  nas
+
+  ## Table of Contents
+  - [Description](#description)
+  - [License](#license)
+  - [Intallation](#installation)
+  - [Test](#test)
+  - [Contributer](#contributer)
+
+  ## License 
+  MIT
+
+  ## Installation 
+  npm i
+
+
+  ## Test
+  
+
+  ## Contributers
+  nAS
+
+  ## Contact Info
+  nas 
+  nas
